@@ -3,7 +3,7 @@ ftp-spider
 
 PHP script for spidering through an FTP server, generating a list of the files inside.
 
-By: (http://wogan.me)Wogan
+By: [http://wogan.me]
 
 Parameters
 ==========
