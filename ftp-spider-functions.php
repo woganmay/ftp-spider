@@ -20,7 +20,7 @@ function debug($string) {
  */
 function ftpspider_options() {
 	
-	$Options = getopt("", array("host:", "username:", "password:", "help", "debug", "outputlinks"));
+	$params = getopt("", array("host:", "username:", "password:", "help", "debug", "outputlinks"));
 	
 	// Required
 	$Options['host'] = (isset($params['host'])) ? $params['host'] : false;
