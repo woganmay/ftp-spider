@@ -18,7 +18,7 @@ function debug($string) {
 /**
  * Check for input parameters
  */
-function ftpspider_options($params) {
+function ftpspider_options() {
 	
 	$Options = getopt("", array("host:", "username:", "password:", "help", "debug", "outputlinks"));
 	
