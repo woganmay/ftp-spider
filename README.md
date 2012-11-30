@@ -24,6 +24,7 @@ Samples
 
 ]# ./ftp-spider.php --host secure.server.com --username myusername --password mypassword --outputlinks > link_list.txt
 
-===License===
+License
+=======
 
 Public Domain
